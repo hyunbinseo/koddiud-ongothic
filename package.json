@@ -1,0 +1,14 @@
+{
+	"name": "koddiud-ongothic",
+	"description": "KoddiUD 온고딕 서체",
+	"scripts": {
+		"postversion": "git push && git push --tags"
+	},
+	"main": "index.css",
+	"author": "한국장애인개발원",
+	"license": "CC BY-SA",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/hyunbinseo/koddiud-ongothic.git"
+	}
+}

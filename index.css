@@ -1,0 +1,19 @@
+/* Version 1.000;Build 20201217 */
+
+@font-face {
+	font-family: 'KoddiUD OnGothic';
+	font-weight: 400;
+	src: url('./KoddiUDOnGothic-Regular.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'KoddiUD OnGothic';
+	font-weight: 700;
+	src: url('./KoddiUDOnGothic-Bold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'KoddiUD OnGothic';
+	font-weight: 800;
+	src: url('./KoddiUDOnGothic-ExtraBold.woff2') format('woff2');
+}
