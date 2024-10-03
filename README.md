@@ -10,16 +10,24 @@
 
 ## 사용 방법
 
-<details>
-  <summary>설치 방식</summary>
+```html
+<link href="https://cdn.jsdelivr.net/npm/koddiud-ongothic@1/index.css" rel="stylesheet" />
 
-**패키지 설치**
+<style>
+  body {
+    font-family: 'KoddiUD OnGothic', sans-serif;
+  }
+</style>
+```
+
+<details>
+  <summary>패키지 설치 방식</summary>
 
 ```shell
 npm i koddiud-ongothic
 ```
 
-**폰트 패밀리 지정**
+폰트 패밀리 지정
 
 ```css
 body {
@@ -27,13 +35,13 @@ body {
 }
 ```
 
-**CSS 파일 불러오기**
+CSS 파일 불러오기
 
 ```
 node_modules/koddiud-ongothic/index.css
 ```
 
-[Vite](https://vite.dev/) 상에선 다음과 같이 불러올 수 있습니다:
+[Vite](https://vite.dev/) 상에선 다음과 같이 불러올 수 있습니다.
 
 ```css
 /* CSS */
