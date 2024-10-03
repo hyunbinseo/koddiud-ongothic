@@ -1,7 +1,7 @@
 {
 	"name": "koddiud-ongothic",
 	"description": "KoddiUD 온고딕 서체",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"scripts": {
 		"postversion": "git push && git push --tags"
 	},
