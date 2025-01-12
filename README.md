@@ -54,3 +54,14 @@ import 'koddiud-ongothic';
 ```
 
 </details>
+
+## 파일 크기
+
+<!-- tree -P "*.woff2" -h --du -->
+
+```
+[2.0M]  .
+├── [853K]  ./KoddiUDOnGothic-Bold.woff2
+├── [375K]  ./KoddiUDOnGothic-ExtraBold.woff2
+└── [869K]  ./KoddiUDOnGothic-Regular.woff2
+```
